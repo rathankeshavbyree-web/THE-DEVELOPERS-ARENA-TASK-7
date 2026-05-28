@@ -338,9 +338,7 @@ This project is provided as-is for educational and commercial use. Modify and di
 
 ## 🔗 Live Demo
 
-```
 https://the-developers-arena-task-7-noou.vercel.app/
-```
 
 ---
 
