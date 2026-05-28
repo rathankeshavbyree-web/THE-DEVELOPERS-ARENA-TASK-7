@@ -251,14 +251,6 @@ npm start
 - **TTI (Time to Interactive)**: ~1.5 seconds
 - **No jank or lag** with 100+ tasks
 
-## 🚀 Deployment
-
-### Deploy to Vercel (Recommended)
-```bash
-npm install -g vercel
-vercel
-```
-
 ## 📋 Future Enhancements
 
 ### Phase 2 Features
@@ -346,16 +338,9 @@ This project is provided as-is for educational and commercial use. Modify and di
 
 ## 🔗 Live Demo
 
-**Paste Your Deployment Link Here:**
-
 ```
-[ YOUR LIVE LINK - Deploy to Vercel/Netlify and paste URL here ]
+https://the-developers-arena-task-7-noou.vercel.app/
 ```
-
-**Examples:**
-- Vercel: `https://military-task-manager.vercel.app`
-- Netlify: `https://military-task-manager.netlify.app`
-- GitHub Pages: `https://yourusername.github.io/military-task-manager`
 
 ---
 
